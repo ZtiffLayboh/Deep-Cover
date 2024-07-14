@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"secret_dooring",
+  "isCompatibility":false,
+  "isDnD":true,
+  "name":"secret_dooring",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
